@@ -24,8 +24,8 @@ body {
 /* *start container */
 
 .container {
-  width: 800px;
-  height: 800px;
+  width: 100%;
+  height: 100%;
   margin: 10px auto;
   position: relative;
 }
@@ -508,7 +508,7 @@ body {
   width: 100%;
   background: #f3f4f4;
   min-height: 100%;
-  /* overflow: hidden; */
+  overflow: hidden;
   text-align: center;
 }
 
