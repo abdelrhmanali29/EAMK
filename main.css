@@ -13,13 +13,13 @@
 }
 
 h1 {
-  font-size: 50px;
+  font-size: 40px;
   font-family: 'Courier New', Courier, monospace, serif;
 }
 h2 {
   font-family: 'Reem Kufi Fun', serif;
-  margin: 20px;
-  font-size: 50px;
+  margin: 10px;
+  font-size: 40px;
 }
 .gray {
   background-color: #3f4442;
