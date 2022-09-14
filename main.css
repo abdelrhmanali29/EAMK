@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Blaka&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Reem+Kufi+Fun&display=swap');
 
 /* *general */
 * {
@@ -16,7 +17,7 @@ h1 {
   font-family: 'Courier New', Courier, monospace, serif;
 }
 h2 {
-  font-family: 'Blaka', serif;
+  font-family: 'Reem Kufi Fun', serif;
   margin: 20px;
   font-size: 80px;
 }
