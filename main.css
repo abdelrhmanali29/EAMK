@@ -59,12 +59,18 @@ body {
   height: 100%;
 }
 
+.img{
+  width: 100%;
+    height: auto;
+}
+
 .wrapper {
   width: 100%;
-  background-color: #fff3cc;
+  background-color: #eecba4;
   min-height: 100%;
   overflow: hidden;
   text-align: center;
+  margin: auto;
 }
 
 .x1 {
