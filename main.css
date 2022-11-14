@@ -336,10 +336,12 @@
  h1 {
    width: 100%;
    position: absolute;
-   bottom: 110px;
+   bottom: 80px;
    font-family: "Cormorant Garamond", serif;
    font-size: 45px;
    color: #225578;
    text-align: center;
    letter-spacing: 3px;
+   margin-top: 50px;
+
  }
