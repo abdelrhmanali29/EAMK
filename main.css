@@ -153,6 +153,34 @@
    margin-top: 50px;  
  }
 
+ h2 {
+   width: 100%;
+   position: relative;
+   font-family: 'Neucha', 'Sevillana', "Cormorant Garamond", serif;
+   font-size: 45px;
+   color: #225578;
+   text-align: center;
+   letter-spacing: 3px;
+   margin-bottom: -50px;
+   margin-top: 50px;
+ }
+
+ .spanDev{
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  width:fit-content;
+  margin-top: 35px;
+  margin-left: 130px;
+ }
+
+ span {
+   font-size: 80px;
+   
+  left: 50%;
+ }
+
+
  .clock {
    width: 100%;
    position: relative;
@@ -174,6 +202,12 @@
     font-family: 'Aref Ruqaa',  'Reem Kufi Fun', Courier, monospace, serif;
     margin-top: 60px;
     line-height: 60px;
+ }
+
+ .screenshot{
+  width: 340px;
+  height: 190px;
+  background-color: rgba(255, 255, 255, 0);
  }
 
 /*---------hearts--------*/
